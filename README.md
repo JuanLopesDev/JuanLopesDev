@@ -1,14 +1,16 @@
-# 👨‍💻 Juan Lopes Silvério
+<h1 align="center">👨‍💻 Juan Lopes Silvério</h1>
 
-## Sobre mim
+<p align="center">
+  Programador Full Stack | C# | ASP.NET | .NET | SQL Server
+</p>
 
-Olá! Me chamo **Juan Lopes Silvério**, sou **Programador Full Stack** e graduando em **Engenharia de Software**.
+---
 
-Atualmente atuo na **UGB-FERP**, onde participo do desenvolvimento e manutenção de sistemas institucionais, criação de novas funcionalidades, correção de problemas, implementação de melhorias e gerenciamento de bancos de dados.
+## 🚀 Sobre mim
 
-Tenho experiência com desenvolvimento utilizando **C#**, **ASP.NET**, **ASP.NET Core**, **Entity Framework**, **SQL Server**, **JavaScript**, **HTML** e **CSS**, sempre buscando criar soluções eficientes e de qualidade.
+Sou graduando em **Engenharia de Software** e atualmente atuo como **Programador Full Stack na UGB-FERP**, desenvolvendo e mantendo sistemas institucionais, implementando novas funcionalidades, realizando integrações e administrando bancos de dados SQL Server.
 
-Neste perfil você encontrará projetos, estudos e experiências que refletem minha evolução profissional na área de desenvolvimento de software.
+Tenho experiência com tecnologias do ecossistema **.NET**, desenvolvimento web e bancos de dados relacionais, sempre buscando criar soluções eficientes e escaláveis.
 
 ## 💼 Experiência
 
@@ -18,27 +20,21 @@ Neste perfil você encontrará projetos, estudos e experiências que refletem mi
 * Implementação de novas funcionalidades e melhorias.
 * Desenvolvimento de APIs e integrações.
 * Administração e otimização de bancos de dados SQL Server.
-* Correção de bugs e suporte técnico às aplicações.
+* Correção de bugs e suporte às aplicações.
 
-## 🚀 Tecnologias
+<h2 align="center">🚀 Tecnologias que mais uso</h2>
 
-* C#
-* .NET
-* ASP.NET MVC
-* ASP.NET Core
-* SQL Server
-* JavaScript
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</p>
 
 ## 📫 Contato
 
-🔗 LinkedIn: [www.linkedin.com/in/juan-lopes-silvério](http://www.linkedin.com/in/juan-lopes-silvério)
-
-📧 E-mail: [juan.lopes.silverio@gmail.com](mailto:juan.lopes.silverio@gmail.com)
-
-## 📊 Minhas Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=uanLopesDev\&show_icons=true\&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=uanLopesDev\&layout=compact\&theme=dark)
-
----
+* LinkedIn: www.linkedin.com/in/juan-lopes-silvério
+* E-mail: [juan.lopes.silverio@gmail.com](mailto:juan.lopes.silverio@gmail.com)
