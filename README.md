@@ -8,7 +8,7 @@
 
 ## 🚀 Sobre mim
 
-Sou graduando em **Engenharia de Software** e atualmente atuo como **Programador Full Stack na UGB-FERP**, desenvolvendo e mantendo sistemas institucionais, implementando novas funcionalidades, realizando integrações e administrando bancos de dados SQL Server.
+Sou graduando em **Engenharia de Software** e atualmente atuo profissionalmente na UGB-FERP**, desenvolvendo e mantendo sistemas institucionais, implementando novas funcionalidades, realizando integrações e administrando bancos de dados SQL Server.
 
 Tenho experiência com tecnologias do ecossistema **.NET**, desenvolvimento web e bancos de dados relacionais, sempre buscando criar soluções eficientes e escaláveis.
 
